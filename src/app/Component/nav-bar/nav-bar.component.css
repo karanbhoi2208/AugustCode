@@ -1,0 +1,19 @@
+.navbar {
+    background-color: #343a40;
+    /* Dark background */
+}
+
+.nav-link {
+    color: #ffffff !important;
+    /* Make links white */
+    text-decoration: none !important;
+    /* Remove underline */
+}
+
+.nav-link:hover,
+.nav-link:focus,
+.nav-link:active {
+    color: yellow !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
